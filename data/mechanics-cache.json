@@ -1,0 +1,1539 @@
+{
+  "lastUpdated": "2025-10-26T15:13:13.953Z",
+  "mechanics": {
+    "28143": [
+      "End Game Bonuses",
+      "Follow",
+      "Hand Management",
+      "Income",
+      "Market",
+      "Multi-Use Cards",
+      "Simultaneous Action Selection",
+      "Tags",
+      "Variable Phase Order"
+    ],
+    "45315": [
+      "Action Queue",
+      "Hand Management",
+      "Simultaneous Action Selection",
+      "Tile Placement",
+      "Worker Placement"
+    ],
+    "59294": [
+      "Area Majority / Influence",
+      "Auction / Bidding",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Modular Board",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "63543": [
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Hand Management",
+      "Turn Order: Time Track",
+      "Variable Player Powers"
+    ],
+    "82222": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Map Addition",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Race",
+      "Roll / Spin and Move",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "87890": [
+      "Loans",
+      "Open Drafting",
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "97842": [
+      "Action Points",
+      "Hand Management",
+      "Victory Points as a Resource",
+      "Worker Placement"
+    ],
+    "101721": [
+      "Deck Construction",
+      "Dice Rolling",
+      "Grid Movement",
+      "Line of Sight",
+      "Simultaneous Action Selection",
+      "Square Grid",
+      "Turn Order: Progressive",
+      "Variable Player Powers"
+    ],
+    "104162": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Line of Sight",
+      "Map Addition",
+      "Modular Board",
+      "Movement Points",
+      "Multiple Maps",
+      "Once-Per-Game Abilities",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Stat Check Resolution",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "104710": [
+      "Deck Construction",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Interrupts",
+      "Line of Sight",
+      "Map Deformation",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Player Elimination",
+      "Take That",
+      "Variable Set-up"
+    ],
+    "110327": [
+      "Contracts",
+      "Hidden Roles",
+      "Increase Value of Unchosen Resources",
+      "Ownership",
+      "Set Collection",
+      "Take That",
+      "Turn Order: Claim Action",
+      "Worker Placement"
+    ],
+    "112138": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Open Drafting",
+      "Variable Player Powers"
+    ],
+    "115746": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Card Play Conflict Resolution",
+      "Dice Rolling",
+      "Events",
+      "Hand Management",
+      "Movement Points",
+      "Team-Based Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "122328": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Hand Management",
+      "Variable Phase Order"
+    ],
+    "128442": [
+      "Dice Rolling",
+      "Roll / Spin and Move",
+      "Variable Player Powers"
+    ],
+    "129423": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Role Playing",
+      "Team-Based Game",
+      "Variable Phase Order"
+    ],
+    "132531": [
+      "Action Retrieval",
+      "Contracts",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Follow",
+      "Hand Management",
+      "Race",
+      "Simultaneous Action Selection",
+      "Tags",
+      "Tile Placement",
+      "Variable Phase Order",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement with Dice Workers"
+    ],
+    "133798": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Open Drafting",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "134342": [
+      "Commodity Speculation",
+      "Open Drafting",
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "139976": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Variable Player Powers"
+    ],
+    "139991": [
+      "Action Queue",
+      "Market",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Worker Placement"
+    ],
+    "142359": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "146418": [
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Hand Management",
+      "Movement Template",
+      "Player Elimination",
+      "Rock-Paper-Scissors",
+      "Variable Player Powers"
+    ],
+    "147473": [
+      "Grid Movement",
+      "Player Elimination",
+      "Variable Player Powers"
+    ],
+    "153758": [
+      "Dice Rolling",
+      "Roll / Spin and Move",
+      "Variable Player Powers"
+    ],
+    "155068": [
+      "Action Retrieval",
+      "Dice Rolling",
+      "Grid Movement",
+      "Line of Sight",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Square Grid",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "155822": [
+      "Action Points",
+      "Grid Movement",
+      "Variable Player Powers"
+    ],
+    "155827": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "156089": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "158496": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "160010": [
+      "Action Points",
+      "Area Movement",
+      "Dice Rolling",
+      "Player Elimination",
+      "Team-Based Game",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "161614": [
+      "Auction / Bidding",
+      "Auction: Fixed Placement",
+      "Betting and Bluffing",
+      "Commodity Speculation",
+      "Constrained Bidding",
+      "Investment",
+      "Market",
+      "Open Drafting",
+      "Stock Holding",
+      "Victory Points as a Resource"
+    ],
+    "161970": [
+      "Action Drafting",
+      "Action Queue",
+      "Constrained Bidding",
+      "Deduction",
+      "End Game Bonuses",
+      "Events",
+      "Hand Management",
+      "Open Drafting",
+      "Turn Order: Progressive",
+      "Worker Placement"
+    ],
+    "162290": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "166776": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Role Playing",
+      "Simultaneous Action Selection"
+    ],
+    "167355": [
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Hidden Roles",
+      "Interrupts",
+      "Modular Board",
+      "Player Elimination",
+      "Semi-Cooperative Game",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ],
+    "169426": [
+      "Dice Rolling",
+      "Open Drafting",
+      "Role Playing",
+      "Set Collection",
+      "Variable Player Powers"
+    ],
+    "171315": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "172503": [
+      "Dice Rolling",
+      "Variable Player Powers"
+    ],
+    "174451": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Simultaneous Action Selection",
+      "Variable Player Powers"
+    ],
+    "174785": [
+      "Area Movement",
+      "Dice Rolling",
+      "Set Collection",
+      "Trading",
+      "Variable Player Powers"
+    ],
+    "179404": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Hand Management"
+    ],
+    "179803": [
+      "Action Retrieval",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Square Grid",
+      "Variable Player Powers"
+    ],
+    "179820": [
+      "Action Queue",
+      "Dice Rolling"
+    ],
+    "181279": [
+      "Card Play Conflict Resolution",
+      "Hand Management",
+      "Hidden Movement",
+      "Point to Point Movement",
+      "Resource to Move",
+      "Rock-Paper-Scissors",
+      "Secret Unit Deployment",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "181495": [
+      "Action Queue",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Modular Board",
+      "Secret Unit Deployment",
+      "Team-Based Game"
+    ],
+    "181613": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "185538": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Modular Board",
+      "Open Drafting",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "186341": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "186751": [
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Command Cards",
+      "Dice Rolling",
+      "Hand Management",
+      "Line of Sight",
+      "Open Drafting",
+      "Player Elimination",
+      "Scenario / Mission / Campaign Game",
+      "Simulation",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "192458": [
+      "Hand Management",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Take That",
+      "Variable Phase Order",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "193219": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "194607": [
+      "Deck, Bag, and Pool Building",
+      "End Game Bonuses",
+      "Hand Management",
+      "Layering",
+      "Open Drafting",
+      "Push Your Luck",
+      "Tags"
+    ],
+    "199329": [
+      "Dice Rolling",
+      "Modular Board",
+      "Pick-up and Deliver",
+      "Tile Placement",
+      "Trading",
+      "Variable Player Powers"
+    ],
+    "199884": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "202077": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "202408": [
+      "Action Points",
+      "Grid Movement",
+      "Hand Management",
+      "Kill Steal",
+      "Open Drafting"
+    ],
+    "203719": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Open Drafting",
+      "Variable Player Powers"
+    ],
+    "205059": [
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Map Addition",
+      "Modular Board",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Stat Check Resolution",
+      "Traitor Game",
+      "Variable Player Powers"
+    ],
+    "205317": [
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "205896": [
+      "Action Drafting",
+      "Alliances",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Auction: Sealed Bid",
+      "Betting and Bluffing",
+      "Closed Drafting",
+      "End Game Bonuses",
+      "Follow",
+      "Force Commitment",
+      "Negotiation",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Variable Phase Order",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "207729": [
+      "Area Majority / Influence",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "209324": [
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Team-Based Game",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "213527": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Hand Management"
+    ],
+    "214988": [
+      "Auction / Bidding",
+      "Network and Route Building",
+      "Pick-up and Deliver"
+    ],
+    "218416": [
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "218417": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Open Drafting",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "218876": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Hand Management"
+    ],
+    "218877": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Hand Management"
+    ],
+    "218879": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Hand Management"
+    ],
+    "218880": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Hand Management"
+    ],
+    "218881": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Hand Management"
+    ],
+    "218882": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Hand Management"
+    ],
+    "218883": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Hand Management"
+    ],
+    "218884": [
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "219217": [
+      "Action Queue",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Movement Points",
+      "Player Elimination",
+      "Point to Point Movement",
+      "Tile Placement",
+      "Variable Player Powers"
+    ],
+    "219999": [
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting",
+      "Player Elimination",
+      "Variable Player Powers"
+    ],
+    "220000": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting",
+      "Player Elimination",
+      "Variable Player Powers"
+    ],
+    "220502": [
+      "Deck, Bag, and Pool Building",
+      "Push Your Luck"
+    ],
+    "222509": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Card Play Conflict Resolution",
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "222514": [
+      "Action Points",
+      "Action Queue",
+      "Area Movement",
+      "Dice Rolling",
+      "Line of Sight",
+      "Scenario / Mission / Campaign Game",
+      "Team-Based Game",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "225563": [
+      "Cooperative Game",
+      "Hand Management",
+      "Variable Player Powers"
+    ],
+    "226631": [
+      "Area Movement",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "228328": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Auction / Bidding",
+      "Contracts",
+      "End Game Bonuses",
+      "Open Drafting",
+      "Selection Order Bid",
+      "Solo / Solitaire Game",
+      "Take That",
+      "Variable Player Powers"
+    ],
+    "230791": [
+      "Action Points",
+      "Area Movement",
+      "Dice Rolling",
+      "Hexagon Grid",
+      "Modular Board",
+      "Simulation",
+      "Variable Player Powers"
+    ],
+    "233868": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Grid Movement",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "237182": [
+      "Action Points",
+      "Action Queue",
+      "Action Retrieval",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Hand Management",
+      "Multi-Use Cards",
+      "Negotiation",
+      "Point to Point Movement",
+      "Race",
+      "Sudden Death Ending",
+      "Take That",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "238982": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Hand Management",
+      "Open Drafting",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "238984": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Hand Management",
+      "Open Drafting",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "238986": [
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "241386": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hand Management",
+      "Race",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "241829": [
+      "Set Collection",
+      "Worker Placement"
+    ],
+    "242993": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management"
+    ],
+    "246987": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Variable Player Powers"
+    ],
+    "248065": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Variable Player Powers"
+    ],
+    "248114": [
+      "Action Points",
+      "Action Queue",
+      "Area Movement",
+      "Dice Rolling",
+      "Player Elimination",
+      "Team-Based Game",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "248125": [
+      "Action Queue",
+      "Area Movement",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Modular Board",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "248759": [
+      "Action Points",
+      "Action Queue",
+      "Area Movement",
+      "Dice Rolling",
+      "Player Elimination",
+      "Team-Based Game",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "248949": [
+      "Action Points",
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Role Playing",
+      "Semi-Cooperative Game"
+    ],
+    "250665": [
+      "Action Points",
+      "Action Queue",
+      "Area Movement",
+      "Dice Rolling",
+      "Player Elimination",
+      "Team-Based Game",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "250843": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "251661": [
+      "Action Points",
+      "Card Play Conflict Resolution",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Hand Management",
+      "Hexagon Grid",
+      "Modular Board",
+      "Pattern Recognition",
+      "Push Your Luck",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Storytelling",
+      "Variable Player Powers"
+    ],
+    "255504": [
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Hand Management",
+      "Line of Sight",
+      "Open Drafting",
+      "Player Elimination",
+      "Scenario / Mission / Campaign Game",
+      "Variable Player Powers"
+    ],
+    "255505": [
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Hand Management",
+      "Open Drafting",
+      "Player Elimination",
+      "Variable Player Powers"
+    ],
+    "256964": [
+      "Action Points",
+      "Area Movement",
+      "Dice Rolling",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Team-Based Game",
+      "Variable Set-up"
+    ],
+    "257193": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "257518": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Multi-Use Cards",
+      "Variable Player Powers"
+    ],
+    "259061": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Deck, Bag, and Pool Building",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Open Drafting",
+      "Variable Player Powers"
+    ],
+    "260117": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "260826": [
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "262211": [
+      "Action Queue",
+      "Bias",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Events",
+      "Hexagon Grid",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Tech Trees / Tech Tracks",
+      "Tile Placement",
+      "Turn Order: Progressive",
+      "Variable Player Powers"
+    ],
+    "262733": [
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Variable Player Powers"
+    ],
+    "264205": [
+      "Action Points",
+      "Deck Construction",
+      "Grid Movement",
+      "Hand Management",
+      "Interrupts",
+      "Resource to Move",
+      "Take That"
+    ],
+    "266939": [
+      "Action Queue",
+      "Area Movement",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Modular Board",
+      "Set Collection",
+      "Variable Player Powers"
+    ],
+    "267609": [
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Communication Limits",
+      "Grid Movement",
+      "Hand Management",
+      "Hexagon Grid",
+      "Multi-Use Cards",
+      "Simultaneous Action Selection",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "269385": [
+      "Action Points",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Map Addition",
+      "Modular Board",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Stat Check Resolution",
+      "Variable Player Powers"
+    ],
+    "271224": [
+      "Action Points",
+      "Area Movement",
+      "Dice Rolling",
+      "Modular Board",
+      "Team-Based Game"
+    ],
+    "272637": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Hand Management",
+      "King of the Hill",
+      "Point to Point Movement",
+      "Variable Player Powers"
+    ],
+    "272738": [
+      "Action Points",
+      "Area Movement",
+      "Card Play Conflict Resolution",
+      "Hidden Movement",
+      "Map Deformation",
+      "Map Reduction",
+      "Modular Board",
+      "Player Elimination",
+      "Secret Unit Deployment",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "276090": [
+      "Deck, Bag, and Pool Building",
+      "Pattern Building",
+      "Set Collection",
+      "Variable Player Powers"
+    ],
+    "282082": [
+      "Action Points",
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Modular Board",
+      "Role Playing"
+    ],
+    "285967": [
+      "Action Retrieval",
+      "Alliances",
+      "Area Majority / Influence",
+      "Auction: Sealed Bid",
+      "Card Play Conflict Resolution",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Kill Steal",
+      "Player Elimination",
+      "Race",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers"
+    ],
+    "288316": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Auction / Bidding",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "292067": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Variable Player Powers"
+    ],
+    "292068": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Variable Player Powers"
+    ],
+    "292069": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Variable Player Powers"
+    ],
+    "295535": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "Income",
+      "Moving Multiple Units",
+      "Solo / Solitaire Game",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "295785": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Hexagon Grid",
+      "Map Addition",
+      "Modular Board",
+      "Movement Points",
+      "Role Playing",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "299317": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Open Drafting",
+      "Scenario / Mission / Campaign Game",
+      "Variable Phase Order",
+      "Variable Player Powers"
+    ],
+    "299490": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Hand Management"
+    ],
+    "299597": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Modular Board",
+      "Role Playing",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "299659": [
+      "Action Points",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Tech Trees / Tech Tracks",
+      "Trading",
+      "Variable Player Powers"
+    ],
+    "304531": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game"
+    ],
+    "304668": [
+      "Deck, Bag, and Pool Building",
+      "Grid Movement",
+      "Hand Management",
+      "King of the Hill",
+      "Line of Sight",
+      "Open Drafting",
+      "Resource to Move",
+      "Slide / Push",
+      "Square Grid",
+      "Take That",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "310100": [
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hidden Roles",
+      "Interrupts",
+      "Modular Board",
+      "Player Elimination",
+      "Semi-Cooperative Game",
+      "Solo / Solitaire Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ],
+    "312230": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Campaign / Battle Card Driven",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "316630": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Modular Board",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "318351": [
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Team-Based Game"
+    ],
+    "321608": [
+      "Action / Event",
+      "Hand Management",
+      "Simulation",
+      "Variable Player Powers",
+      "Voting",
+      "Worker Placement, Different Worker Types"
+    ],
+    "322656": [
+      "Action Points",
+      "Action Queue",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Grid Movement",
+      "Modular Board",
+      "Moving Multiple Units",
+      "Resource to Move",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "331398": [
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Command Cards",
+      "Dice Rolling",
+      "Hand Management",
+      "Line of Sight",
+      "Open Drafting",
+      "Player Elimination",
+      "Scenario / Mission / Campaign Game",
+      "Simulation",
+      "Variable Player Powers"
+    ],
+    "338067": [
+      "Action Timer",
+      "Betting and Bluffing",
+      "Dice Rolling",
+      "Grid Movement",
+      "Interrupts",
+      "Line of Sight",
+      "Multiple Maps",
+      "Real-Time",
+      "Scenario / Mission / Campaign Game",
+      "Secret Unit Deployment",
+      "Square Grid",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "338434": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Enclosure",
+      "Hand Management",
+      "Hexagon Grid",
+      "Solo / Solitaire Game"
+    ],
+    "340466": [
+      "Area Movement",
+      "Hand Management",
+      "Hidden Roles",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ],
+    "342189": [
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Modular Board",
+      "Role Playing",
+      "Solo / Solitaire Game"
+    ],
+    "344117": [
+      "Action Points",
+      "Deck Construction",
+      "Grid Movement",
+      "Hand Management",
+      "Interrupts",
+      "Resource to Move",
+      "Take That"
+    ],
+    "344118": [
+      "Action Points",
+      "Deck Construction",
+      "Grid Movement",
+      "Hand Management",
+      "Interrupts",
+      "Resource to Move",
+      "Take That"
+    ],
+    "346773": [
+      "Deduction",
+      "Hidden Movement",
+      "Line of Sight",
+      "Memory",
+      "Negotiation",
+      "Pick-up and Deliver",
+      "Point to Point Movement",
+      "Team-Based Game",
+      "Trading",
+      "Variable Player Powers"
+    ],
+    "350458": [
+      "Area Majority / Influence",
+      "Income",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "359609": [
+      "Action Points",
+      "Area Movement",
+      "Communication Limits",
+      "Cooperative Game",
+      "Deck Construction",
+      "Events",
+      "Hand Management",
+      "Map Deformation",
+      "Modular Board",
+      "Narrative Choice / Paragraph",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Stat Check Resolution",
+      "Variable Player Powers"
+    ],
+    "359835": [
+      "Action Points",
+      "Area Movement",
+      "Dice Rolling",
+      "Scenario / Mission / Campaign Game",
+      "Variable Player Powers"
+    ],
+    "360366": [
+      "Area Movement",
+      "Cooperative Game",
+      "Deck Construction",
+      "Dice Rolling",
+      "Events",
+      "Hand Management",
+      "Modular Board",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling"
+    ],
+    "364356": [
+      "Action Points",
+      "Automatic Resource Growth",
+      "Income",
+      "Multiple Maps",
+      "Real-Time",
+      "Team-Based Game",
+      "Turn Order: Progressive",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Zone of Control"
+    ],
+    "367150": [
+      "Action Drafting",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Events",
+      "Hand Management",
+      "Simulation",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Variable Set-up"
+    ],
+    "367925": [
+      "Campaign / Battle Card Driven",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Modular Board",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Stat Check Resolution",
+      "Variable Player Powers"
+    ],
+    "368557": [
+      "Dice Rolling",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Line of Sight",
+      "Modular Board",
+      "Three Dimensional Movement",
+      "Variable Set-up",
+      "Zone of Control"
+    ],
+    "368605": [
+      "Action Points",
+      "Deck Construction",
+      "Grid Movement",
+      "Hand Management",
+      "Interrupts",
+      "Take That"
+    ],
+    "368720": [
+      "Action Points",
+      "Deck Construction",
+      "Grid Movement",
+      "Hand Management",
+      "Interrupts",
+      "Take That"
+    ],
+    "370796": [
+      "Dice Rolling",
+      "Events"
+    ],
+    "371018": [
+      "Dice Rolling",
+      "Events"
+    ],
+    "374250": [
+      "Action / Event",
+      "Hand Management",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Voting"
+    ],
+    "377986": [
+      "Action Points",
+      "Action Queue",
+      "Area Movement",
+      "Dice Rolling",
+      "Line of Sight",
+      "Player Elimination",
+      "Scenario / Mission / Campaign Game",
+      "Team-Based Game",
+      "Variable Phase Order",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "380681": [
+      "Grid Movement",
+      "Hand Management",
+      "Interrupts",
+      "Line of Sight",
+      "Multiple Maps",
+      "Square Grid",
+      "Sudden Death Ending",
+      "Team-Based Game",
+      "Three Dimensional Movement",
+      "Variable Player Powers"
+    ],
+    "381248": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Hidden Roles",
+      "Modular Board",
+      "Player Elimination",
+      "Semi-Cooperative Game",
+      "Solo / Solitaire Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ],
+    "385628": [
+      "Action Timer",
+      "Critical Hits and Failures",
+      "Scenario / Mission / Campaign Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "397598": [
+      "Automatic Resource Growth",
+      "Card Play Conflict Resolution",
+      "Contracts",
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Force Commitment",
+      "Increase Value of Unchosen Resources",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Team-Based Game",
+      "Turn Order: Progressive",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "416590": [
+      "Area Movement",
+      "Hand Management",
+      "Hidden Roles",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ],
+    "418059": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Income",
+      "Multi-Use Cards",
+      "Resource to Move",
+      "Solo / Solitaire Game",
+      "Turn Order: Progressive",
+      "Variable Set-up"
+    ],
+    "421006": [
+      "Area Majority / Influence",
+      "Hand Management",
+      "Income",
+      "Layering",
+      "Market",
+      "Modular Board",
+      "Multi-Use Cards",
+      "Once-Per-Game Abilities",
+      "Open Drafting",
+      "Point to Point Movement",
+      "Race",
+      "Relative Movement",
+      "Set Collection",
+      "Sudden Death Ending",
+      "Tags",
+      "Take That",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ]
+  }
+}
